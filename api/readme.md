@@ -1,0 +1,1 @@
+## This is my first attempt to use flask. Here I had got familiarised with few of the basics of flask and marked my beginning for learning of this amazing Web Framework.
